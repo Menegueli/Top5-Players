@@ -9,8 +9,6 @@ O objetivo é fornecer insights significativos sobre o desempenho dos jogadores 
 ## Estrutura do Projeto
 
 - **data/**: Contém o dataset utilizado na análise.
-- **notebooks/**: Contém o Jupyter Notebook com o código e as análises realizadas.
-- **images/**: Capturas de tela e gráficos gerados pelas análises.
 - **README.md**: Documentação do projeto.
 
 ## Tecnologias Utilizadas
