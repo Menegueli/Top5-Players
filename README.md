@@ -30,6 +30,9 @@ O objetivo é fornecer insights significativos sobre o desempenho dos jogadores 
 6. **Distribuição de Jogadores por Nacionalidade**: Análise da diversidade de nacionalidades representadas nas ligas.
 7. **Desempenho por Liga**: Comparação de métricas chave como gols e assistências entre as diferentes ligas.
 
+## Referência
+- **Kaggle** [Dataset](https://www.kaggle.com/datasets/orkunaktas/all-football-players-stats-in-top-5-leagues-2324)
+
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_ com sugestões ou melhorias.
