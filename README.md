@@ -41,7 +41,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ## Contato
 
 - **Nome**: Seu Nome
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/gabriel-menegueli-618113182/)
-- **GitHub**: [Seu GitHub](https://github.com/menegueli)
+- **LinkedIn**: [Gabriel Menegueli](https://www.linkedin.com/in/gabriel-menegueli-618113182/)
+- **GitHub**: [Menegueli](https://github.com/menegueli)
 
 
